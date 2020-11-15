@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mathias Renaud"
+title                    : "Mathias test Renaud"
 title_separator          : "-"
 name                     : &name "Mathias Renaud"
 description              : &description "PhD Student"
